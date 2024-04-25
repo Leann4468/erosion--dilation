@@ -75,7 +75,7 @@ plt.axis('off')
 
 #### Display the Dilated Image
 
-![image](https://github.com/Leann4468/erosion--dilation/assets/121165979/a9dc92e0-0843-478a-aa1d-22f12b6d4405)
+![image](https://github.com/Leann4468/erosion--dilation/assets/121165979/d48d36d7-3621-4065-bc74-7ebf5e03f91b)
 
 
 ## Result
